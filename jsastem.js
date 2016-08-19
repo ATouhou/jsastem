@@ -138,3 +138,5 @@ function jsastem( input) {
 }
 
 // =============== end of jsastem.js ====================
+
+module.exports.jsastem = jsastem;
